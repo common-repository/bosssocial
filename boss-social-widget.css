@@ -1,0 +1,112 @@
+.boss-social
+{
+	display: inline-block;
+}
+
+.boss-social a
+{
+	display: inline-block;
+	text-indent: -999em;
+	background-repeat: no-repeat;
+	margin-right: 5px;
+	margin-bottom: 3px;
+	width: 32px;
+	height: 32px;
+	
+	-webkit-transition: all 0.3s ease;
+	   -moz-transition: all 0.3s ease;
+	    -ms-transition: all 0.3s ease;
+	     -o-transition: all 0.3s ease;
+	        transition: all 0.3s ease;
+	
+  -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+          border-radius: 50%;
+		
+  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+}
+
+.boss-social a:focus
+{
+	outline: none;
+}
+
+.boss-social a { background-color: #bbbbbb; }
+
+.boss-social a.facebook { background-image: url( 'images/facebook.png' ); }
+.boss-social a.facebook:hover { background-color: #3c5fac; }
+
+.boss-social a.twitter { background-image: url( 'images/twitter.png' ); }
+.boss-social a.twitter:hover { background-color: #5ec3df; }
+
+.boss-social a.google { background-image: url( 'images/google.png' ); }
+.boss-social a.google:hover { background-color: #c63d2d; }
+
+.boss-social a.blogger { background-image: url( 'images/blogger.png' ); }
+.boss-social a.blogger:hover { background-color: #FB8F3D; }
+
+.boss-social a.tumblr { background-image: url( 'images/tumblr.png' ); }
+.boss-social a.tumblr:hover { background-color: #2C4762; }
+
+.boss-social a.wordpress { background-image: url( 'images/wordpress.png' ); }
+.boss-social a.wordpress:hover { background-color: #1E8CBE; }
+
+.boss-social a.behance { background-image: url( 'images/behance.png' ); }
+.boss-social a.behance:hover { background-color: #1758D0; }
+
+.boss-social a.pinterest { background-image: url( 'images/pinterest.png' ); }
+.boss-social a.pinterest:hover { background-color: #cb2027; }
+
+.boss-social a.stumbleupon { background-image: url( 'images/stumbleupon.png' ); }
+.boss-social a.stumbleupon:hover { background-color: #EB4924; }
+
+.boss-social a.digg { background-image: url( 'images/digg.png' ); }
+.boss-social a.digg:hover { background-color: #000000; }
+
+.boss-social a.delicious { background-image: url( 'images/delicious.png' ); }
+.boss-social a.delicious:hover { background-color: #3274D1; }
+
+.boss-social a.deviantart { background-image: url( 'images/deviantart.png' ); }
+.boss-social a.deviantart:hover { background-color: #4C5E51; }
+
+.boss-social a.linkedin { background-image: url( 'images/linkedin.png' ); }
+.boss-social a.linkedin:hover { background-color: #2089b5; }
+
+.boss-social a.skype { background-image: url( 'images/skype.png' ); }
+.boss-social a.skype:hover { background-color: #00aff0; }
+
+.boss-social a.flickr { background-image: url( 'images/flickr.png' ); }
+.boss-social a.flickr:hover { background-color: #FF0084; }
+
+.boss-social a.picassa { background-image: url( 'images/picassa.png' ); }
+.boss-social a.picassa:hover { background-color: #ffd34e; }
+
+.boss-social a.instagram { background-image: url( 'images/instagram.png' ); }
+.boss-social a.instagram:hover { background-color: #517FA4; }
+
+.boss-social a.dribble { background-image: url( 'images/dribble.png' ); }
+.boss-social a.dribble:hover { background-color: #EA4C89; }
+
+.boss-social a.forrst { background-image: url( 'images/forrst.png' ); }
+.boss-social a.forrst:hover { background-color: #5b9a68; }
+
+.boss-social a.lastfm { background-image: url( 'images/lastfm.png' ); }
+.boss-social a.lastfm:hover { background-color: #D51007; }
+
+.boss-social a.soundcloud { background-image: url( 'images/soundcloud.png' ); }
+.boss-social a.soundcloud:hover { background-color: #ff6600; }
+
+.boss-social a.myspace { background-image: url( 'images/myspace.png' ); }
+.boss-social a.myspace:hover { background-color: #000000; }
+
+.boss-social a.vimeo { background-image: url( 'images/vimeo.png' ); }
+.boss-social a.vimeo:hover { background-color: #0dadd6; }
+
+.boss-social a.youtube { background-image: url( 'images/youtube.png' ); }
+.boss-social a.youtube:hover { background-color: #c8312b; }
+
+.boss-social a.paypal { background-image: url( 'images/paypal.png' ); }
+.boss-social a.paypal:hover { background-color: #00457C; }
+
+.boss-social a.rss { background-image: url( 'images/rss.png' ); }
+.boss-social a.rss:hover { background-color: #ff9900; }
